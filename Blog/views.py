@@ -27,7 +27,6 @@ class CreatePostView(LoginRequiredMixin,CreateView): #mixin deos the same work t
     redirect_field_name = "Blog/post_detail.html"
     form_class = PostForm
     # mixine attributes
-
     model = Post
 
 class PostUpdateView(LoginRequiredMixin, UpdateView):
