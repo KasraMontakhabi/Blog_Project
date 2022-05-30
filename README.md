@@ -3,10 +3,9 @@ This is a simple CRUD blog project made with Django, Django templates, HTML, CSS
 
 ## Packages:
 - [Django](https://www.djangoproject.com/)
-- [Misaka](https://misaka.readthedocs.io/en/latest/)
 ## Setup
 1. Clone this repository
-2. Just install django package:
+2. Just install the django package:
 
 Django:
 ```bash
